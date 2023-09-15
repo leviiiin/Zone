@@ -10,7 +10,7 @@
 }
 
 body {
-    background-image: url('/static/img/Bg.png');
+    background-image: url('./static/img/Bg.png');
     background-size: cover;
     font-family: 'DM Sans', sans-serif;
     color: white;
